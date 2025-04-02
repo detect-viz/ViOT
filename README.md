@@ -367,4 +367,3 @@ go run cmd/main.go --sync-interval=5m
 ```
 
 服務啟動後，訪問 http://localhost:8080 即可使用系統。
-# ViOT
